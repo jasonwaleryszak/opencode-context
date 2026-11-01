@@ -3,7 +3,7 @@
 An OpenCode V2 plugin that adds a `/context` command, a breakdown of what fills the current session's context window, similar to `/context` in Claude Code.
 
 ```
-Context Usage                                                       esc
+Context Usage
 
 ▪ ■ ■ ■ ■ ▪ ▪ □ □ □    Claude Opus 5.5
 □ □ □ □ □ □ □ □ □ □    opencode/claude-opus-5-5 · high
